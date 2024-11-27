@@ -6,7 +6,7 @@ from sklearn.impute import SimpleImputer
 import openai  # Example for connecting LLM, replace with your LLM of choice
 
 # OpenAI setup (replace with your key if using OpenAI)
-openai.api_key = "your-api-key"  # Use your key if connecting to OpenAI or other LLMs
+openai.api_key = "your-api-keysk-proj-ClZdf0yUMc9JgkpQ8vfksgc-lLSStiQEk_sacw-Bn3VKwwHgzgSCrnXDleKE9YdojGdPI3X_cCT3BlbkFJZGatB11NBwmJu7QTuMviXzO6EdlKpTaVw951JFSZx2C2QboJQo1bngxzAOUdCk2Iwvs64BiZIA"  # Use your key if connecting to OpenAI or other LLMs
 
 # Streamlit App Title
 st.title("Automated Data Analysis and Dashboard Generation")
